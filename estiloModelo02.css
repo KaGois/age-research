@@ -1,0 +1,37 @@
+body {
+    background-color: #595959;
+    font: normal 15pt rgb(255, 255, 255);
+    font-family: sans-serif;
+}
+
+header {
+    
+    font: normal 15pt sans-serif;
+    font-family: sans-serif;
+    color: white;
+    text-align: center;
+}
+
+section{
+    font-family: sans-serif;
+    border-radius: 15px;
+    background: #595959;
+    box-shadow:  -7px 7px 14px #363636,
+                 7px -7px 14px #7c7c7c;
+    margin: auto;
+    width: 500px;
+    padding: 20px;
+    color: white;
+}
+   
+div{
+     text-align: center;
+}
+
+footer {
+    font: normal 10pt sans-serif;
+    font-family: sans-serif;
+    font-style: italic;
+    color: white;
+    text-align: center;
+}
